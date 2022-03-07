@@ -326,3 +326,18 @@ Além destes que citei, eu já tenho separado, pronto para começar (quando term
 ### Dia 37: 22 de Fevereiro de 2022.
 
 **Progresso de Hoje:** sexto projeto do wesboss, com MUITAS modificações. Hoje eu curti, alterei completamente a API que era usada, troquei para uma brasileira, porém tive que usar duas. Isso me colocou em uma sinuca de bico, tive que refatorar o código inteiro, não foi apenas só trocar uma variável. Mas me diverti bastante.
+
+### Dia 38-42: 23-27 de Fevereiro de 2022.
+
+**Progresso de Hoje:** apenas seguindo estudo no site do wessboss (fiz os projetos 7 ao 10) e um cuirso no edX em Rekt (que é p/ criação de função, não estou para aprender a linguagem). Também fiz o commit do último projeto do FCC que faltava o upload.
+
+### Dia 43: 28 de Fevereiro de 2022.
+
+**Progresso de Hoje:** comecei fazendo o projeto 11 do wesboss, depois passei para estudo de TypeScript e pulei para estudo de Rust (confesso que estou muito mais interessado nele do que em JS).
+
+### Dia 44: 01 de Março de 2022.
+**Progresso de Hoje:** tenho feito diversos projetos paralelos de cursos, mas que não considero como algo que se deva colcoar aqui no GitHub, a maioria sequer tenho terminado. Tem me servido mais apra estudo e análise do código em si. Disponibilizei um desses projetos, que faz parte de um bootcamp que estou fazendo, tão somente porque o site exigia a postagem para avançar e poder concluir com certificado.
+
+### Dia 45-50: 02-07 de Março d 2022.
+**Progresso de Hoje:** basicamente só seguindo estudo com Rust, um projeto do wesboss por dia, uma ou outra lida no livro "The pragmatic programmer". Além de ter terminado a leitura do extreme programming do Ken Beck. Estava naquela fase de desânimo, parece que não evolui. Terminei um curso da edX em parceria com a Universidade de Britsh Columbia (Canadá): "How to Code: Simple Data" (em Rekt). Agora estou começando a sequência dele que é o "How to Code: Complex Data". Aconselho bastante estes cursos, eles abrem a cabeça de que não adianta simplesmente sair fazendo código, mas se deve parar e planejar o código e ir mais "lento". Que devemos codr , utiliizando boas práticas até mesmo nos estudos.
+Além disso, terminei outro bootcamp na dio.me, aproveitei para atualizar a pasta com os certificados de conclusão dos cursos.
