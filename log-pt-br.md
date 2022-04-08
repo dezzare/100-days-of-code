@@ -350,3 +350,13 @@ Além disso, terminei outro bootcamp na dio.me, aproveitei para atualizar a past
 
 ### Dia 65-72 : 23-29 de Março de 2022
 **Progresso da semana:** Passei a semana estudando Rust. Ainda, iniciei um curso de algoritimos promovido pela Universidade de Princeton, no site da Coursera. Todos os algoritimos ensinados no curso usam Java para demonstração, aproveitei, então, para aplicar os códigos em Rust e fui "traduzindo". Com certreza isso vai parecer besteira para qualquer programador mais experiente, mais ajuda muito no entendimento do funcionamento da linguagem e no entendimento do conteúdo. O fato de ter conseguido programar esses algoritimos me deixou muito animado. Ainda, durante o curso de Rust, desenvolvi um programa CLI para procura e substituição de palavras dentro de um arquivo (está compartilhado aqui no github).
+
+### Dia 73-75 : 30-01 de Março-Abril de 2022.
+**Progresso:** Dei um gás no curso de Rust e terminei no dia 01 de Abril, postei até no Linkedin e meio que pareceu uma mentira, mas fazer o que... Também avancei no curso de algoritimos, praticando os código em Rust. Ainda, dei uma melhorada na organização dos projetos, como a criação de um repositório próprio para o desafio de 30 dias do Wesbos, onde estão os 30 projetos de JavaScript. Foi bom dar essa reorganizada, revi bastante os código e alterei meia duzia de coisas.
+Ainda, desenvolvi um chat cli em rust (BEM limitado), com servidor e client, usando propriedades async e crates externas.
+
+### Dia 76-83 : 02-08 de Abril de 2022.
+**Progresso:** Foi uma semana bem produtiva, entrei em um bootcamp na dio.me da Órbi Web Games e desenvolvi diversos joguinhos, brinquei com diversas mecânicas. Foi muito bom! Por mais simples que tenham sido as aulas/conteúdos, foi uma provocação à criatividade e isto foi realizador. 
+Foram 3 jogos que disponibilizei: dino, neoshooter, jogo da velha. O dino eu alterei um pouco a mecânica, para deixar mais responsivo e um pouco mais fácil. Fiz alteração na forma de input de comando (originalmente estava p pular quando soltava da tecla, alterei para quando pressiona), ainda em relação ao pulo, alterei o tempo de atualização, baixando de 20ms p/ 5ms, deixnado mais responsivo e com menos "lag". Ttambém alterei a altura máxima do pulo e adicionei uma animação de pulo ao dino.
+No jogo neoshooter eu não me recordo todas as modificações, mas basicamente alterei a forma de movimentação (de setinha p/ J K), alterei a tematica de space p/ guerra de editores de texto Neovim X emacs, sublime, vscode e intellij.
+No jogo da velha eu fiz muitas mudanças estéticas, com alteração de cores e animações de hover ao passar por cima dos quadrados. Ainda fiz alteração de só mostrar o texto de vencedor ao final da partida e ocultar durante.
