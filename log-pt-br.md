@@ -360,3 +360,9 @@ Ainda, desenvolvi um chat cli em rust (BEM limitado), com servidor e client, usa
 Foram 3 jogos que disponibilizei: dino, neoshooter, jogo da velha. O dino eu alterei um pouco a mecânica, para deixar mais responsivo e um pouco mais fácil. Fiz alteração na forma de input de comando (originalmente estava p pular quando soltava da tecla, alterei para quando pressiona), ainda em relação ao pulo, alterei o tempo de atualização, baixando de 20ms p/ 5ms, deixnado mais responsivo e com menos "lag". Ttambém alterei a altura máxima do pulo e adicionei uma animação de pulo ao dino.
 No jogo neoshooter eu não me recordo todas as modificações, mas basicamente alterei a forma de movimentação (de setinha p/ J K), alterei a tematica de space p/ guerra de editores de texto Neovim X emacs, sublime, vscode e intellij.
 No jogo da velha eu fiz muitas mudanças estéticas, com alteração de cores e animações de hover ao passar por cima dos quadrados. Ainda fiz alteração de só mostrar o texto de vencedor ao final da partida e ocultar durante.
+
+
+
+### Dia 84-90: 09-15 de Abril de 2022.
+**Progresso:** Passei a semana me dedicando a um desafio da Alura, em fazer um projeto de fullstack focando no backend. O desafio deixa livre para escolher a linguagem de programação, e eu escolhi Rust, tão somente pela dificuldade, ausência de material em português, e me forçar a estudar a fundo a documentação e tirar a bengala de tutoriais.
+
